@@ -964,6 +964,7 @@ declare module graphql {
     export var GraphQLString: GraphQLScalarType;
     export var GraphQLBoolean: GraphQLScalarType;
     export var GraphQLID: GraphQLScalarType;
+    export var GraphQLStringOrInt: GraphQLScalarType;
 
     // type/schema.js
 
